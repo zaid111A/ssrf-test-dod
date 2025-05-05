@@ -1,0 +1,8 @@
+{
+  "system": "DoD Public Test",
+  "ssrf_test": true,
+  "test_by": "Dr. Zaid Ali Hussein",
+  "contact": "zaid_ali@nahrainuniv.edu.iq",
+  "status": "If you are reading this from /fetch?url=... then SSRF is real.",
+  "version": "1.0.0"
+}
